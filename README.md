@@ -1,2 +1,2 @@
 # Modern-Control-Paper-Simulation
-ss
+In this project, I analyzed a research paper on advanced control techniques, formulated guiding questions, and conducted MATLAB simulations. The project included modeling a system, implementing control strategies such as Linear Quadratic Regulator (LQR), and comparing the results with the findings from the research paper. Through this hands-on approach, I deepened my understanding of modern control systems and their practical applications.
